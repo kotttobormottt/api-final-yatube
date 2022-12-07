@@ -1,4 +1,4 @@
-# Проект API Yatube
+# Pet-project API Yatube
 Приложение к проекту YaTube https://github.com/kotttobormottt/YaTube Позволяет работать с YaTube через API:
 ```
 запросы к API начинаются с /api/v1/
